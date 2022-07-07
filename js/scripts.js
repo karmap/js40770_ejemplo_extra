@@ -1,5 +1,7 @@
 console.log('Ejemplo extra');
 
+// Ejemplo de cambios para git
+
 function promedio() {
     const TOTAL_ITERACIONES = 3
     let total = 0
